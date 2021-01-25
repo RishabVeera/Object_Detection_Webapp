@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+}
+
+.h2_design {
+    background-color: aqua;
+    margin-top: 0;
+}
+
+.allpage_design {
+    width: 800px;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
+canvas {
+    box-shadow: aqua;
+}
+
+.aa_design {
+    float: right;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
